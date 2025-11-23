@@ -32,7 +32,7 @@ OctoAcme projects follow a structured lifecycle with five major phases:
 2. **Planning**: Break work into shippable increments, identify dependencies and risks, align timelines
 3. **Execution**: Build, test, review, and iterate with regular demos and quality checks
 4. **Release**: Deploy to production, verify functionality, and announce to stakeholders
-5. **Retrospective**: Capture learnings and convert them into actionable improvements
+5. **Close & Retrospective**: Capture learnings and convert them into actionable improvements
 
 ## Documentation
 
