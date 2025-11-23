@@ -7,6 +7,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Daily standups (15 min) — focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks
 - Demo/Review at the end of each sprint or milestone
+- Design reviews (as needed) — validate UI/UX before implementation
+- Architecture reviews (as needed) — validate technical approach for major features
+- Backlog refinement — Business Analyst and Product Manager collaborate on upcoming stories
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
@@ -38,3 +41,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Design review process established and followed
+- [ ] Acceptance criteria validated by Business Analyst before marking items done
+- [ ] Architecture decisions documented by Solution Architect
+- [ ] Scrum Master tracking and removing impediments

@@ -14,6 +14,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- Business Analyst validates business requirements are met
+- UX/UI Designer confirms design implementation quality
+- Solution Architect reviews production readiness and security compliance
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
@@ -22,6 +25,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+- [ ] Product Manager validates success metrics
+- [ ] Business Analyst confirms business objectives achieved
+- [ ] UX/UI Designer reviews user experience in production
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:

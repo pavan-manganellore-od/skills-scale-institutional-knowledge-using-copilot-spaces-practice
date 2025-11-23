@@ -35,6 +35,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Identify and assign key roles (PM, PdM, Dev Lead, BA, Architect, Designer, Scrum Master as needed)
+- [ ] Conduct initial feasibility assessment with Solution Architect (if applicable)
+- [ ] Business Analyst begins stakeholder interviews for detailed requirements (if applicable)
 
 ## Decision Gate
 Move to planning when:
