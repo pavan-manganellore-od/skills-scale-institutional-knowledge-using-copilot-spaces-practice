@@ -140,6 +140,54 @@ OctoAcme's project management approach is built on five core principles:
 
 **Goals**: Deliver projects on time and within scope; minimize unplanned work; maintain transparency
 
+### Scrum Master
+
+**Focus**: Facilitate agile ceremonies and remove impediments
+
+**Key Responsibilities**:
+- Facilitate sprint planning, standups, reviews, and retrospectives
+- Remove blockers and impediments
+- Coach team on agile principles and practices
+- Track and improve team velocity
+
+**Goals**: Maximize team productivity; build self-organizing teams; ensure sustainable pace
+
+### Solution Architect
+
+**Focus**: Design system architecture and ensure technical alignment
+
+**Key Responsibilities**:
+- Define system architecture and design patterns
+- Review and approve technical approaches
+- Ensure alignment with enterprise standards
+- Identify technical risks and propose mitigations
+
+**Goals**: Deliver scalable, maintainable, secure architectures; reduce technical debt
+
+### Business Analyst
+
+**Focus**: Bridge business stakeholders and technical teams
+
+**Key Responsibilities**:
+- Capture and document business requirements
+- Translate business needs into user stories
+- Define acceptance criteria
+- Validate solutions meet business objectives
+
+**Goals**: Ensure clear understanding of business needs; reduce rework; maximize business value delivery
+
+### UX/UI Designer
+
+**Focus**: Create intuitive and accessible user experiences
+
+**Key Responsibilities**:
+- Conduct user research and usability testing
+- Create wireframes, mockups, and prototypes
+- Design user interfaces following accessibility standards
+- Collaborate with developers on implementation
+
+**Goals**: Deliver intuitive, accessible interfaces; reduce user friction; maintain consistent experiences
+
 📄 [Detailed Roles and Personas](./octoacme-roles-and-personas.md)
 
 ## Communication Strategies
